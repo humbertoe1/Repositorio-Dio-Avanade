@@ -46,6 +46,32 @@ namespace Colections
         {
             Array.Copy(arrayOriginal, arrayCopy, arrayOriginal.Length);
         }
+        public bool ElementIsValid(int[] array, int valor)
+        {
+            return Array.Exists(array, elemento => elemento == valor);
+        }
+        public bool ElementsAreGreaterThan(int[] array, int value)
+        {
+            return Array.TrueForAll(array, elemento => elemento > value);
+        }
 
+        public int GetElement(int [] array, int value)
+        {
+            return Array.Find(array, elemento => elemento == value);
+        }
+
+        public int GetIndexOfArray(int [] array, int value)
+        {
+            return Array.IndexOf(array, value);
+        }
+        public void ChangeSizeOfArray(ref int[] array, int newSize)
+        {
+            Array.Resize(ref array, newSize);
+        }
+
+        public string[] ArrayIntToString(int[] array)
+        {
+            return Array.ConvertAll(array, elemento => elemento.ToString());
+        }
     }
 }

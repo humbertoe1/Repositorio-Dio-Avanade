@@ -79,9 +79,77 @@ namespace Colections
             Console.WriteLine("arrayCopy depois de copiar: ");
             op.PrintArray(arrayCopy);
 
+            //It checks if an element Exists on the Array:
+            bool existe = op.ElementIsValid(arrayCopy, 10);
+            if(existe)
+                Console.WriteLine("this element is on the array");
+            else
+                Console.WriteLine("Not on the array");
 
-             
-           
+            //It checks if an element Exists on the Array:
+            existe = op.ElementIsValid(arrayCopy, 15);
+            if (existe)
+                Console.WriteLine("this element is on the array");
+            else
+                Console.WriteLine("Not on the array");
+
+            Console.WriteLine("Checking if there are only elements greater than Zero on the Array: ");
+            int value = 0;
+            bool greaterThan = op.ElementsAreGreaterThan(arrayCopy, value);
+
+            if(greaterThan)
+                Console.WriteLine("All elements are greater than "+ value);
+            else
+                Console.WriteLine("There are elements less than or equal to " + value);
+
+            Console.WriteLine("Checking if there are only elements greater than Five on the Array: ");
+            value = 5;
+            greaterThan = op.ElementsAreGreaterThan(arrayCopy, value);
+
+            if (greaterThan)
+                Console.WriteLine("All elements are greater than " + value);
+            else
+                Console.WriteLine("There are elements less than or equal to " + value);
+
+            //Checking if there is an element on the Array
+            value = 9;
+            int foundValue = op.GetElement(arrayCopy, value);
+            if (foundValue > 0) //Greater than zero because there no negative array index!
+                Console.WriteLine("Value found on the Array");
+            else
+                Console.WriteLine("Value not found!");
+
+            value = 100;
+            foundValue = op.GetElement(arrayCopy, value);
+            if (foundValue > 0) //Greater than zero because there no negative array index!
+                Console.WriteLine("Value found on the Array");
+            else
+                Console.WriteLine("Value not found!");
+
+            value = 7;
+            int indexValue = op.GetIndexOfArray(arrayCopy, value);
+            if(indexValue > -1)
+                Console.WriteLine("the element {0} index is {1}", value, indexValue);
+            else
+                Console.WriteLine("value not foun on array!");
+
+            value = 100;
+            indexValue = op.GetIndexOfArray(arrayCopy, value);
+            if (indexValue > -1)
+                Console.WriteLine("the element {0} index is {1}", value, indexValue);
+            else
+                Console.WriteLine("value not found on array!");
+
+
+            Console.WriteLine($"Array actual size is {arrayCopy.Length}");
+
+            op.ChangeSizeOfArray(ref arrayCopy, arrayCopy.Length * 2);
+
+            Console.WriteLine($"Array actual size is {arrayCopy.Length}");
+
+            string[] arrayString = op.ArrayIntToString(arrayCopy);
+            Console.WriteLine(arrayString[0]);
+
         }
     }
 }
