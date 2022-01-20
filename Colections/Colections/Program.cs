@@ -54,7 +54,33 @@ namespace Colections
                 }
 
             }
+            //BubbleSort Example:
 
+            ArrayHelper op = new ArrayHelper();
+            int[] arrayForSorting = new int[10] { 5, 6, 11, 1, 3, 4, 7, 2, 10, 9 };
+            Console.WriteLine("Original Array: ");
+            op.PrintArray(arrayForSorting);
+
+            //op.SortingBubbleSort(ref arrayForSorting);
+            op.Sorting(ref arrayForSorting);
+
+            Console.WriteLine("Array after Bubble Sorting: ");
+            op.PrintArray(arrayForSorting);
+
+
+            //Copying an array:
+
+
+            int[] arrayCopy = new int[10];
+            Console.WriteLine("arrayCopy antes de copiar: ");
+            op.PrintArray(arrayCopy);
+
+            op.Copying(ref arrayForSorting, ref arrayCopy);
+            Console.WriteLine("arrayCopy depois de copiar: ");
+            op.PrintArray(arrayCopy);
+
+
+             
            
         }
     }

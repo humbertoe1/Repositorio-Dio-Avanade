@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Colections\\Colections\\Colections.csproj": {}
+    "C:\\Dio\\Repositorio-Dio-Avanade\\Colections\\Colections\\Colections.csproj": {}
   },
   "projects": {
-    "C:\\Colections\\Colections\\Colections.csproj": {
+    "C:\\Dio\\Repositorio-Dio-Avanade\\Colections\\Colections\\Colections.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Colections\\Colections\\Colections.csproj",
+        "projectUniqueName": "C:\\Dio\\Repositorio-Dio-Avanade\\Colections\\Colections\\Colections.csproj",
         "projectName": "Colections",
-        "projectPath": "C:\\Colections\\Colections\\Colections.csproj",
+        "projectPath": "C:\\Dio\\Repositorio-Dio-Avanade\\Colections\\Colections\\Colections.csproj",
         "packagesPath": "C:\\Users\\tce\\.nuget\\packages\\",
-        "outputPath": "C:\\Colections\\Colections\\obj\\",
+        "outputPath": "C:\\Dio\\Repositorio-Dio-Avanade\\Colections\\Colections\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
