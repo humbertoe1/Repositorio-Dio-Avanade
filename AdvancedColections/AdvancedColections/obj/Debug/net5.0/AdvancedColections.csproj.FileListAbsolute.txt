@@ -1,0 +1,16 @@
+C:\Dio\Repositorio-Dio-Avanade\AdvancedColections\AdvancedColections\bin\Debug\net5.0\AdvancedColections.exe
+C:\Dio\Repositorio-Dio-Avanade\AdvancedColections\AdvancedColections\bin\Debug\net5.0\AdvancedColections.deps.json
+C:\Dio\Repositorio-Dio-Avanade\AdvancedColections\AdvancedColections\bin\Debug\net5.0\AdvancedColections.runtimeconfig.json
+C:\Dio\Repositorio-Dio-Avanade\AdvancedColections\AdvancedColections\bin\Debug\net5.0\AdvancedColections.runtimeconfig.dev.json
+C:\Dio\Repositorio-Dio-Avanade\AdvancedColections\AdvancedColections\bin\Debug\net5.0\AdvancedColections.dll
+C:\Dio\Repositorio-Dio-Avanade\AdvancedColections\AdvancedColections\bin\Debug\net5.0\ref\AdvancedColections.dll
+C:\Dio\Repositorio-Dio-Avanade\AdvancedColections\AdvancedColections\bin\Debug\net5.0\AdvancedColections.pdb
+C:\Dio\Repositorio-Dio-Avanade\AdvancedColections\AdvancedColections\obj\Debug\net5.0\AdvancedColections.csproj.AssemblyReference.cache
+C:\Dio\Repositorio-Dio-Avanade\AdvancedColections\AdvancedColections\obj\Debug\net5.0\AdvancedColections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dio\Repositorio-Dio-Avanade\AdvancedColections\AdvancedColections\obj\Debug\net5.0\AdvancedColections.AssemblyInfoInputs.cache
+C:\Dio\Repositorio-Dio-Avanade\AdvancedColections\AdvancedColections\obj\Debug\net5.0\AdvancedColections.AssemblyInfo.cs
+C:\Dio\Repositorio-Dio-Avanade\AdvancedColections\AdvancedColections\obj\Debug\net5.0\AdvancedColections.csproj.CoreCompileInputs.cache
+C:\Dio\Repositorio-Dio-Avanade\AdvancedColections\AdvancedColections\obj\Debug\net5.0\AdvancedColections.dll
+C:\Dio\Repositorio-Dio-Avanade\AdvancedColections\AdvancedColections\obj\Debug\net5.0\ref\AdvancedColections.dll
+C:\Dio\Repositorio-Dio-Avanade\AdvancedColections\AdvancedColections\obj\Debug\net5.0\AdvancedColections.pdb
+C:\Dio\Repositorio-Dio-Avanade\AdvancedColections\AdvancedColections\obj\Debug\net5.0\AdvancedColections.genruntimeconfig.cache
