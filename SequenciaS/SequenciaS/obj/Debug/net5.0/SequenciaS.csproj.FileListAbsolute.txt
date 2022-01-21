@@ -1,0 +1,16 @@
+C:\Dio\Repositorio-Dio-Avanade\SequenciaS\SequenciaS\bin\Debug\net5.0\SequenciaS.exe
+C:\Dio\Repositorio-Dio-Avanade\SequenciaS\SequenciaS\bin\Debug\net5.0\SequenciaS.deps.json
+C:\Dio\Repositorio-Dio-Avanade\SequenciaS\SequenciaS\bin\Debug\net5.0\SequenciaS.runtimeconfig.json
+C:\Dio\Repositorio-Dio-Avanade\SequenciaS\SequenciaS\bin\Debug\net5.0\SequenciaS.runtimeconfig.dev.json
+C:\Dio\Repositorio-Dio-Avanade\SequenciaS\SequenciaS\bin\Debug\net5.0\SequenciaS.dll
+C:\Dio\Repositorio-Dio-Avanade\SequenciaS\SequenciaS\bin\Debug\net5.0\ref\SequenciaS.dll
+C:\Dio\Repositorio-Dio-Avanade\SequenciaS\SequenciaS\bin\Debug\net5.0\SequenciaS.pdb
+C:\Dio\Repositorio-Dio-Avanade\SequenciaS\SequenciaS\obj\Debug\net5.0\SequenciaS.csproj.AssemblyReference.cache
+C:\Dio\Repositorio-Dio-Avanade\SequenciaS\SequenciaS\obj\Debug\net5.0\SequenciaS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dio\Repositorio-Dio-Avanade\SequenciaS\SequenciaS\obj\Debug\net5.0\SequenciaS.AssemblyInfoInputs.cache
+C:\Dio\Repositorio-Dio-Avanade\SequenciaS\SequenciaS\obj\Debug\net5.0\SequenciaS.AssemblyInfo.cs
+C:\Dio\Repositorio-Dio-Avanade\SequenciaS\SequenciaS\obj\Debug\net5.0\SequenciaS.csproj.CoreCompileInputs.cache
+C:\Dio\Repositorio-Dio-Avanade\SequenciaS\SequenciaS\obj\Debug\net5.0\SequenciaS.dll
+C:\Dio\Repositorio-Dio-Avanade\SequenciaS\SequenciaS\obj\Debug\net5.0\ref\SequenciaS.dll
+C:\Dio\Repositorio-Dio-Avanade\SequenciaS\SequenciaS\obj\Debug\net5.0\SequenciaS.pdb
+C:\Dio\Repositorio-Dio-Avanade\SequenciaS\SequenciaS\obj\Debug\net5.0\SequenciaS.genruntimeconfig.cache
