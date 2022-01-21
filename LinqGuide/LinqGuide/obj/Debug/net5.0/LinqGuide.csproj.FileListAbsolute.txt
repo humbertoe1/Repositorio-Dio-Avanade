@@ -1,0 +1,16 @@
+C:\Dio\Repositorio-Dio-Avanade\LinqGuide\LinqGuide\bin\Debug\net5.0\LinqGuide.exe
+C:\Dio\Repositorio-Dio-Avanade\LinqGuide\LinqGuide\bin\Debug\net5.0\LinqGuide.deps.json
+C:\Dio\Repositorio-Dio-Avanade\LinqGuide\LinqGuide\bin\Debug\net5.0\LinqGuide.runtimeconfig.json
+C:\Dio\Repositorio-Dio-Avanade\LinqGuide\LinqGuide\bin\Debug\net5.0\LinqGuide.runtimeconfig.dev.json
+C:\Dio\Repositorio-Dio-Avanade\LinqGuide\LinqGuide\bin\Debug\net5.0\LinqGuide.dll
+C:\Dio\Repositorio-Dio-Avanade\LinqGuide\LinqGuide\bin\Debug\net5.0\ref\LinqGuide.dll
+C:\Dio\Repositorio-Dio-Avanade\LinqGuide\LinqGuide\bin\Debug\net5.0\LinqGuide.pdb
+C:\Dio\Repositorio-Dio-Avanade\LinqGuide\LinqGuide\obj\Debug\net5.0\LinqGuide.csproj.AssemblyReference.cache
+C:\Dio\Repositorio-Dio-Avanade\LinqGuide\LinqGuide\obj\Debug\net5.0\LinqGuide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dio\Repositorio-Dio-Avanade\LinqGuide\LinqGuide\obj\Debug\net5.0\LinqGuide.AssemblyInfoInputs.cache
+C:\Dio\Repositorio-Dio-Avanade\LinqGuide\LinqGuide\obj\Debug\net5.0\LinqGuide.AssemblyInfo.cs
+C:\Dio\Repositorio-Dio-Avanade\LinqGuide\LinqGuide\obj\Debug\net5.0\LinqGuide.csproj.CoreCompileInputs.cache
+C:\Dio\Repositorio-Dio-Avanade\LinqGuide\LinqGuide\obj\Debug\net5.0\LinqGuide.dll
+C:\Dio\Repositorio-Dio-Avanade\LinqGuide\LinqGuide\obj\Debug\net5.0\ref\LinqGuide.dll
+C:\Dio\Repositorio-Dio-Avanade\LinqGuide\LinqGuide\obj\Debug\net5.0\LinqGuide.pdb
+C:\Dio\Repositorio-Dio-Avanade\LinqGuide\LinqGuide\obj\Debug\net5.0\LinqGuide.genruntimeconfig.cache
