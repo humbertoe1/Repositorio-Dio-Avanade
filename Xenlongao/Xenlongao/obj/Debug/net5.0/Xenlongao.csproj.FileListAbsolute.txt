@@ -1,0 +1,16 @@
+C:\Dio\Repositorio-Dio-Avanade\Xenlongao\Xenlongao\bin\Debug\net5.0\Xenlongao.exe
+C:\Dio\Repositorio-Dio-Avanade\Xenlongao\Xenlongao\bin\Debug\net5.0\Xenlongao.deps.json
+C:\Dio\Repositorio-Dio-Avanade\Xenlongao\Xenlongao\bin\Debug\net5.0\Xenlongao.runtimeconfig.json
+C:\Dio\Repositorio-Dio-Avanade\Xenlongao\Xenlongao\bin\Debug\net5.0\Xenlongao.runtimeconfig.dev.json
+C:\Dio\Repositorio-Dio-Avanade\Xenlongao\Xenlongao\bin\Debug\net5.0\Xenlongao.dll
+C:\Dio\Repositorio-Dio-Avanade\Xenlongao\Xenlongao\bin\Debug\net5.0\ref\Xenlongao.dll
+C:\Dio\Repositorio-Dio-Avanade\Xenlongao\Xenlongao\bin\Debug\net5.0\Xenlongao.pdb
+C:\Dio\Repositorio-Dio-Avanade\Xenlongao\Xenlongao\obj\Debug\net5.0\Xenlongao.csproj.AssemblyReference.cache
+C:\Dio\Repositorio-Dio-Avanade\Xenlongao\Xenlongao\obj\Debug\net5.0\Xenlongao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dio\Repositorio-Dio-Avanade\Xenlongao\Xenlongao\obj\Debug\net5.0\Xenlongao.AssemblyInfoInputs.cache
+C:\Dio\Repositorio-Dio-Avanade\Xenlongao\Xenlongao\obj\Debug\net5.0\Xenlongao.AssemblyInfo.cs
+C:\Dio\Repositorio-Dio-Avanade\Xenlongao\Xenlongao\obj\Debug\net5.0\Xenlongao.csproj.CoreCompileInputs.cache
+C:\Dio\Repositorio-Dio-Avanade\Xenlongao\Xenlongao\obj\Debug\net5.0\Xenlongao.dll
+C:\Dio\Repositorio-Dio-Avanade\Xenlongao\Xenlongao\obj\Debug\net5.0\ref\Xenlongao.dll
+C:\Dio\Repositorio-Dio-Avanade\Xenlongao\Xenlongao\obj\Debug\net5.0\Xenlongao.pdb
+C:\Dio\Repositorio-Dio-Avanade\Xenlongao\Xenlongao\obj\Debug\net5.0\Xenlongao.genruntimeconfig.cache
