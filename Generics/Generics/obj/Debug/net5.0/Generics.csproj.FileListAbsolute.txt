@@ -1,0 +1,16 @@
+C:\Dio\Repositorio-Dio-Avanade\Generics\Generics\bin\Debug\net5.0\Generics.exe
+C:\Dio\Repositorio-Dio-Avanade\Generics\Generics\bin\Debug\net5.0\Generics.deps.json
+C:\Dio\Repositorio-Dio-Avanade\Generics\Generics\bin\Debug\net5.0\Generics.runtimeconfig.json
+C:\Dio\Repositorio-Dio-Avanade\Generics\Generics\bin\Debug\net5.0\Generics.runtimeconfig.dev.json
+C:\Dio\Repositorio-Dio-Avanade\Generics\Generics\bin\Debug\net5.0\Generics.dll
+C:\Dio\Repositorio-Dio-Avanade\Generics\Generics\bin\Debug\net5.0\ref\Generics.dll
+C:\Dio\Repositorio-Dio-Avanade\Generics\Generics\bin\Debug\net5.0\Generics.pdb
+C:\Dio\Repositorio-Dio-Avanade\Generics\Generics\obj\Debug\net5.0\Generics.csproj.AssemblyReference.cache
+C:\Dio\Repositorio-Dio-Avanade\Generics\Generics\obj\Debug\net5.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dio\Repositorio-Dio-Avanade\Generics\Generics\obj\Debug\net5.0\Generics.AssemblyInfoInputs.cache
+C:\Dio\Repositorio-Dio-Avanade\Generics\Generics\obj\Debug\net5.0\Generics.AssemblyInfo.cs
+C:\Dio\Repositorio-Dio-Avanade\Generics\Generics\obj\Debug\net5.0\Generics.csproj.CoreCompileInputs.cache
+C:\Dio\Repositorio-Dio-Avanade\Generics\Generics\obj\Debug\net5.0\Generics.dll
+C:\Dio\Repositorio-Dio-Avanade\Generics\Generics\obj\Debug\net5.0\ref\Generics.dll
+C:\Dio\Repositorio-Dio-Avanade\Generics\Generics\obj\Debug\net5.0\Generics.pdb
+C:\Dio\Repositorio-Dio-Avanade\Generics\Generics\obj\Debug\net5.0\Generics.genruntimeconfig.cache
