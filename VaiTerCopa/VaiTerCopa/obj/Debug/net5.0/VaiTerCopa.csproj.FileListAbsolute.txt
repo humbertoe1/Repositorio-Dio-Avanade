@@ -1,0 +1,16 @@
+C:\GitDio\Repositorio-Dio-Avanade\VaiTerCopa\VaiTerCopa\bin\Debug\net5.0\VaiTerCopa.exe
+C:\GitDio\Repositorio-Dio-Avanade\VaiTerCopa\VaiTerCopa\bin\Debug\net5.0\VaiTerCopa.deps.json
+C:\GitDio\Repositorio-Dio-Avanade\VaiTerCopa\VaiTerCopa\bin\Debug\net5.0\VaiTerCopa.runtimeconfig.json
+C:\GitDio\Repositorio-Dio-Avanade\VaiTerCopa\VaiTerCopa\bin\Debug\net5.0\VaiTerCopa.runtimeconfig.dev.json
+C:\GitDio\Repositorio-Dio-Avanade\VaiTerCopa\VaiTerCopa\bin\Debug\net5.0\VaiTerCopa.dll
+C:\GitDio\Repositorio-Dio-Avanade\VaiTerCopa\VaiTerCopa\bin\Debug\net5.0\ref\VaiTerCopa.dll
+C:\GitDio\Repositorio-Dio-Avanade\VaiTerCopa\VaiTerCopa\bin\Debug\net5.0\VaiTerCopa.pdb
+C:\GitDio\Repositorio-Dio-Avanade\VaiTerCopa\VaiTerCopa\obj\Debug\net5.0\VaiTerCopa.csproj.AssemblyReference.cache
+C:\GitDio\Repositorio-Dio-Avanade\VaiTerCopa\VaiTerCopa\obj\Debug\net5.0\VaiTerCopa.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitDio\Repositorio-Dio-Avanade\VaiTerCopa\VaiTerCopa\obj\Debug\net5.0\VaiTerCopa.AssemblyInfoInputs.cache
+C:\GitDio\Repositorio-Dio-Avanade\VaiTerCopa\VaiTerCopa\obj\Debug\net5.0\VaiTerCopa.AssemblyInfo.cs
+C:\GitDio\Repositorio-Dio-Avanade\VaiTerCopa\VaiTerCopa\obj\Debug\net5.0\VaiTerCopa.csproj.CoreCompileInputs.cache
+C:\GitDio\Repositorio-Dio-Avanade\VaiTerCopa\VaiTerCopa\obj\Debug\net5.0\VaiTerCopa.dll
+C:\GitDio\Repositorio-Dio-Avanade\VaiTerCopa\VaiTerCopa\obj\Debug\net5.0\ref\VaiTerCopa.dll
+C:\GitDio\Repositorio-Dio-Avanade\VaiTerCopa\VaiTerCopa\obj\Debug\net5.0\VaiTerCopa.pdb
+C:\GitDio\Repositorio-Dio-Avanade\VaiTerCopa\VaiTerCopa\obj\Debug\net5.0\VaiTerCopa.genruntimeconfig.cache
