@@ -1,0 +1,16 @@
+C:\GitDio\Repositorio-Dio-Avanade\SequenciaIJ2\SequenciaIJ2\bin\Debug\net5.0\SequenciaIJ2.exe
+C:\GitDio\Repositorio-Dio-Avanade\SequenciaIJ2\SequenciaIJ2\bin\Debug\net5.0\SequenciaIJ2.deps.json
+C:\GitDio\Repositorio-Dio-Avanade\SequenciaIJ2\SequenciaIJ2\bin\Debug\net5.0\SequenciaIJ2.runtimeconfig.json
+C:\GitDio\Repositorio-Dio-Avanade\SequenciaIJ2\SequenciaIJ2\bin\Debug\net5.0\SequenciaIJ2.runtimeconfig.dev.json
+C:\GitDio\Repositorio-Dio-Avanade\SequenciaIJ2\SequenciaIJ2\bin\Debug\net5.0\SequenciaIJ2.dll
+C:\GitDio\Repositorio-Dio-Avanade\SequenciaIJ2\SequenciaIJ2\bin\Debug\net5.0\ref\SequenciaIJ2.dll
+C:\GitDio\Repositorio-Dio-Avanade\SequenciaIJ2\SequenciaIJ2\bin\Debug\net5.0\SequenciaIJ2.pdb
+C:\GitDio\Repositorio-Dio-Avanade\SequenciaIJ2\SequenciaIJ2\obj\Debug\net5.0\SequenciaIJ2.csproj.AssemblyReference.cache
+C:\GitDio\Repositorio-Dio-Avanade\SequenciaIJ2\SequenciaIJ2\obj\Debug\net5.0\SequenciaIJ2.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitDio\Repositorio-Dio-Avanade\SequenciaIJ2\SequenciaIJ2\obj\Debug\net5.0\SequenciaIJ2.AssemblyInfoInputs.cache
+C:\GitDio\Repositorio-Dio-Avanade\SequenciaIJ2\SequenciaIJ2\obj\Debug\net5.0\SequenciaIJ2.AssemblyInfo.cs
+C:\GitDio\Repositorio-Dio-Avanade\SequenciaIJ2\SequenciaIJ2\obj\Debug\net5.0\SequenciaIJ2.csproj.CoreCompileInputs.cache
+C:\GitDio\Repositorio-Dio-Avanade\SequenciaIJ2\SequenciaIJ2\obj\Debug\net5.0\SequenciaIJ2.dll
+C:\GitDio\Repositorio-Dio-Avanade\SequenciaIJ2\SequenciaIJ2\obj\Debug\net5.0\ref\SequenciaIJ2.dll
+C:\GitDio\Repositorio-Dio-Avanade\SequenciaIJ2\SequenciaIJ2\obj\Debug\net5.0\SequenciaIJ2.pdb
+C:\GitDio\Repositorio-Dio-Avanade\SequenciaIJ2\SequenciaIJ2\obj\Debug\net5.0\SequenciaIJ2.genruntimeconfig.cache
