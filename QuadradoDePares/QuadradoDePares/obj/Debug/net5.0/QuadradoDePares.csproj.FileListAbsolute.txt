@@ -1,0 +1,16 @@
+C:\GitDio\Repositorio-Dio-Avanade\QuadradoDePares\QuadradoDePares\bin\Debug\net5.0\QuadradoDePares.exe
+C:\GitDio\Repositorio-Dio-Avanade\QuadradoDePares\QuadradoDePares\bin\Debug\net5.0\QuadradoDePares.deps.json
+C:\GitDio\Repositorio-Dio-Avanade\QuadradoDePares\QuadradoDePares\bin\Debug\net5.0\QuadradoDePares.runtimeconfig.json
+C:\GitDio\Repositorio-Dio-Avanade\QuadradoDePares\QuadradoDePares\bin\Debug\net5.0\QuadradoDePares.runtimeconfig.dev.json
+C:\GitDio\Repositorio-Dio-Avanade\QuadradoDePares\QuadradoDePares\bin\Debug\net5.0\QuadradoDePares.dll
+C:\GitDio\Repositorio-Dio-Avanade\QuadradoDePares\QuadradoDePares\bin\Debug\net5.0\ref\QuadradoDePares.dll
+C:\GitDio\Repositorio-Dio-Avanade\QuadradoDePares\QuadradoDePares\bin\Debug\net5.0\QuadradoDePares.pdb
+C:\GitDio\Repositorio-Dio-Avanade\QuadradoDePares\QuadradoDePares\obj\Debug\net5.0\QuadradoDePares.csproj.AssemblyReference.cache
+C:\GitDio\Repositorio-Dio-Avanade\QuadradoDePares\QuadradoDePares\obj\Debug\net5.0\QuadradoDePares.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitDio\Repositorio-Dio-Avanade\QuadradoDePares\QuadradoDePares\obj\Debug\net5.0\QuadradoDePares.AssemblyInfoInputs.cache
+C:\GitDio\Repositorio-Dio-Avanade\QuadradoDePares\QuadradoDePares\obj\Debug\net5.0\QuadradoDePares.AssemblyInfo.cs
+C:\GitDio\Repositorio-Dio-Avanade\QuadradoDePares\QuadradoDePares\obj\Debug\net5.0\QuadradoDePares.csproj.CoreCompileInputs.cache
+C:\GitDio\Repositorio-Dio-Avanade\QuadradoDePares\QuadradoDePares\obj\Debug\net5.0\QuadradoDePares.dll
+C:\GitDio\Repositorio-Dio-Avanade\QuadradoDePares\QuadradoDePares\obj\Debug\net5.0\ref\QuadradoDePares.dll
+C:\GitDio\Repositorio-Dio-Avanade\QuadradoDePares\QuadradoDePares\obj\Debug\net5.0\QuadradoDePares.pdb
+C:\GitDio\Repositorio-Dio-Avanade\QuadradoDePares\QuadradoDePares\obj\Debug\net5.0\QuadradoDePares.genruntimeconfig.cache
