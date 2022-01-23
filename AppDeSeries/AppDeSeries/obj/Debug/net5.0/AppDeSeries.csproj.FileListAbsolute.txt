@@ -1,0 +1,16 @@
+C:\GitDio\Repositorio-Dio-Avanade\AppDeSeries\AppDeSeries\bin\Debug\net5.0\AppDeSeries.exe
+C:\GitDio\Repositorio-Dio-Avanade\AppDeSeries\AppDeSeries\bin\Debug\net5.0\AppDeSeries.deps.json
+C:\GitDio\Repositorio-Dio-Avanade\AppDeSeries\AppDeSeries\bin\Debug\net5.0\AppDeSeries.runtimeconfig.json
+C:\GitDio\Repositorio-Dio-Avanade\AppDeSeries\AppDeSeries\bin\Debug\net5.0\AppDeSeries.runtimeconfig.dev.json
+C:\GitDio\Repositorio-Dio-Avanade\AppDeSeries\AppDeSeries\bin\Debug\net5.0\AppDeSeries.dll
+C:\GitDio\Repositorio-Dio-Avanade\AppDeSeries\AppDeSeries\bin\Debug\net5.0\ref\AppDeSeries.dll
+C:\GitDio\Repositorio-Dio-Avanade\AppDeSeries\AppDeSeries\bin\Debug\net5.0\AppDeSeries.pdb
+C:\GitDio\Repositorio-Dio-Avanade\AppDeSeries\AppDeSeries\obj\Debug\net5.0\AppDeSeries.csproj.AssemblyReference.cache
+C:\GitDio\Repositorio-Dio-Avanade\AppDeSeries\AppDeSeries\obj\Debug\net5.0\AppDeSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitDio\Repositorio-Dio-Avanade\AppDeSeries\AppDeSeries\obj\Debug\net5.0\AppDeSeries.AssemblyInfoInputs.cache
+C:\GitDio\Repositorio-Dio-Avanade\AppDeSeries\AppDeSeries\obj\Debug\net5.0\AppDeSeries.AssemblyInfo.cs
+C:\GitDio\Repositorio-Dio-Avanade\AppDeSeries\AppDeSeries\obj\Debug\net5.0\AppDeSeries.csproj.CoreCompileInputs.cache
+C:\GitDio\Repositorio-Dio-Avanade\AppDeSeries\AppDeSeries\obj\Debug\net5.0\AppDeSeries.dll
+C:\GitDio\Repositorio-Dio-Avanade\AppDeSeries\AppDeSeries\obj\Debug\net5.0\ref\AppDeSeries.dll
+C:\GitDio\Repositorio-Dio-Avanade\AppDeSeries\AppDeSeries\obj\Debug\net5.0\AppDeSeries.pdb
+C:\GitDio\Repositorio-Dio-Avanade\AppDeSeries\AppDeSeries\obj\Debug\net5.0\AppDeSeries.genruntimeconfig.cache
