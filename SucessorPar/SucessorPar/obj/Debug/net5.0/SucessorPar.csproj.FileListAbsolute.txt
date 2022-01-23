@@ -1,0 +1,16 @@
+C:\GitDio\Repositorio-Dio-Avanade\SucessorPar\SucessorPar\bin\Debug\net5.0\SucessorPar.exe
+C:\GitDio\Repositorio-Dio-Avanade\SucessorPar\SucessorPar\bin\Debug\net5.0\SucessorPar.deps.json
+C:\GitDio\Repositorio-Dio-Avanade\SucessorPar\SucessorPar\bin\Debug\net5.0\SucessorPar.runtimeconfig.json
+C:\GitDio\Repositorio-Dio-Avanade\SucessorPar\SucessorPar\bin\Debug\net5.0\SucessorPar.runtimeconfig.dev.json
+C:\GitDio\Repositorio-Dio-Avanade\SucessorPar\SucessorPar\bin\Debug\net5.0\SucessorPar.dll
+C:\GitDio\Repositorio-Dio-Avanade\SucessorPar\SucessorPar\bin\Debug\net5.0\ref\SucessorPar.dll
+C:\GitDio\Repositorio-Dio-Avanade\SucessorPar\SucessorPar\bin\Debug\net5.0\SucessorPar.pdb
+C:\GitDio\Repositorio-Dio-Avanade\SucessorPar\SucessorPar\obj\Debug\net5.0\SucessorPar.csproj.AssemblyReference.cache
+C:\GitDio\Repositorio-Dio-Avanade\SucessorPar\SucessorPar\obj\Debug\net5.0\SucessorPar.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitDio\Repositorio-Dio-Avanade\SucessorPar\SucessorPar\obj\Debug\net5.0\SucessorPar.AssemblyInfoInputs.cache
+C:\GitDio\Repositorio-Dio-Avanade\SucessorPar\SucessorPar\obj\Debug\net5.0\SucessorPar.AssemblyInfo.cs
+C:\GitDio\Repositorio-Dio-Avanade\SucessorPar\SucessorPar\obj\Debug\net5.0\SucessorPar.csproj.CoreCompileInputs.cache
+C:\GitDio\Repositorio-Dio-Avanade\SucessorPar\SucessorPar\obj\Debug\net5.0\SucessorPar.dll
+C:\GitDio\Repositorio-Dio-Avanade\SucessorPar\SucessorPar\obj\Debug\net5.0\ref\SucessorPar.dll
+C:\GitDio\Repositorio-Dio-Avanade\SucessorPar\SucessorPar\obj\Debug\net5.0\SucessorPar.pdb
+C:\GitDio\Repositorio-Dio-Avanade\SucessorPar\SucessorPar\obj\Debug\net5.0\SucessorPar.genruntimeconfig.cache
